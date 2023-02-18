@@ -3,16 +3,6 @@
 """
 
 import tensorflow as tf
-import numpy as np
-import matplotlib.pyplot as plt
-import scipy.io
-from scipy.interpolate import griddata
-from mpl_toolkits.mplot3d import Axes3D
-from pyDOE import lhs
-import time
-from plotting import newfig, savefig
-import matplotlib.gridspec as gridspec
-from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 ###############################################################################
 ############################## Helper Functions ###############################
